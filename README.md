@@ -1,5 +1,5 @@
 ## Hi, I'm Lakshay Mishra! 👋
-- 💻 I’m a 2nd-year CSE student focusing on AI and machine learning.
+- 💻 I’m a 3rd-year CSE student focusing on AI and machine learning.
 - 🧠 Passionate about neural networks, deep learning, and building real-world ML models.
 - 🔭 Currently working on mastering DSA and seeking internship opportunities.
 - 📈 Projects: Heart disease classification, bulldozer price prediction, and more!
