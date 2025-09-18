@@ -1,9 +1,16 @@
-## Hi, I'm Lakshay Mishra! 👋
-- 💻 I’m a 3rd-year CSE student focusing on AI and machine learning.
-- 🧠 Passionate about neural networks, deep learning, and building real-world ML models.
-- 🔭 Currently working on mastering DSA and seeking internship opportunities.
-- 📈 Projects: Heart disease classification, bulldozer price prediction, and more!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lakshay-mishra-429b43296/)
+👋 Hey, I'm Lakshay Mishra
+
+💻 Software Developer (Python | MERN | Machine Learning)
+
+🚀 Building projects that blend AI, backend systems, and problem-solving
+
+📚 Currently on a 60+ day LeetCode streak while strengthening CS fundamentals (OS, DBMS, CN)
+
+🔭 Recent projects: DevDesk (coding prep dashboard), Heart Disease Classifier, Amara (AI mental health coach)
+
+🏆 Achievements: Under 25 Choice Award (Top 100 student leaders in India), McKinsey Forward, International Internship @ Phoenix Labs
+
+🌐 Let’s connect: LinkedIn
 
 
 <!---
