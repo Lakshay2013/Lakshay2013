@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Lakshay and I'm a Software Engineer, from Bengaluru, India</p>
+<p align="left">I'm Lakshay and I'm a Software Engineer from Bengaluru, India</p>
 
 ###
 
