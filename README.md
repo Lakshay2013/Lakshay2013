@@ -44,13 +44,11 @@ Currently building **[Zyra](https://github.com/Lakshay2013/Zyra)** — a multi-t
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshay2013&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Lakshay2013&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay2013&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lakshay2013&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Lakshay2013&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay2013&theme=dark&hide_border=true&layout=compact&langs_count=8)
 
 ---
 
@@ -59,6 +57,4 @@ Currently building **[Zyra](https://github.com/Lakshay2013/Zyra)** — a multi-t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Lakshay2013&icon=0&color=0" alt="Profile Views" />
-</p>
+[![Profile Views](https://visitcount.itsvg.in/api?id=Lakshay2013&icon=0&color=0)](https://visitcount.itsvg.in)
