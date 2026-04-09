@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Lakshay 👋</h1>
 
 <p align="center">
-  Backend Engineer · Builder · CS + AI Student @ DSATM Bengaluru
+  Backend Engineer · Builder 
 </p>
 
 ---
